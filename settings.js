@@ -1,0 +1,45 @@
+/*
+
+credits © All Creators Script Zedezada
+*/
+
+
+const fs = require('fs')
+global.prefa = [''] 
+global.botname = "⨭͛͠𝐙𝐄̶͓𝐃̷𝐄͡𝐙͍̽𝐀͡𝐃𝐀̚" // Nama Bot
+global.version = "2" // Versi SC
+global.owner = "" // Nomor Owner Bot
+global.numberbot = "" // Nomor Bot
+global.footer = ""
+global.title = "© ᴄʀᴇᴀᴛᴏʀ sᴄʀɪᴘᴛ ᴢᴇᴅᴇᴢᴀᴅᴀ"
+global.website = "whatsapp.com/channel/0029VakL4GD2phHJckS4Wc24"
+global.idch = "120363417139133337@newsletter"
+global.chjid = "https://whatsapp.com/channel/0029Vb75QXJ7oQhgxmdf0E0d"
+global.wm = ""
+
+//===================================//
+global.session = "session"
+
+//========= [ API CPANEL ] ==========//
+global.egg = "15" // Egg ID
+global.nestid = "5" // nest ID
+global.loc = "1" // Location ID
+global.domain = "https://-"
+global.apikey = "-" //ptla
+global.capikey = "-" //ptlc
+global.linkadp = "-" //link group adp
+
+//=========== [ IMG-URL ] ===========//
+global.thumb = "https://files.catbox.moe/cfkh9x.jpg"
+global.image = {
+Reply: "https://files.catbox.moe/cfkh9x.jpg"
+}
+//==================================//
+
+let file = require.resolve(__filename)
+require('fs').watchFile(file, () => {
+  require('fs').unwatchFile(file)
+  console.log('\x1b[0;32m'+__filename+' \x1b[1;32mupdated!\x1b[0m')
+  delete require.cache[file]
+  require(file)
+})
