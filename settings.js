@@ -6,10 +6,10 @@ credits © All Creators Script Zedezada
 
 const fs = require('fs')
 global.prefa = [''] 
-global.botname = "⨭͛͠𝐙𝐄̶͓𝐃̷𝐄͡𝐙͍̽𝐀͡𝐃𝐀̚" // Nama Bot
+global.botname = "⨭͛͠𝐙𝐄̶͓𝐃̷𝐄͡𝐙͍̽𝐀͡𝐃𝐀̚" // Nexus bot
 global.version = "2" // Versi SC
-global.owner = "" // Nomor Owner Bot
-global.numberbot = "" // Nomor Bot
+global.owner = "" // Eder Owner Bot
+global.numberbot = "" // Nexus bot
 global.footer = ""
 global.title = "© ᴄʀᴇᴀᴛᴏʀ sᴄʀɪᴘᴛ Eder"
 global.website = "whatsapp.com/channel/0029VakL4GD2phHJckS4Wc24"
