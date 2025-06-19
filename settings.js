@@ -12,9 +12,9 @@ global.owner = "" // Eder Owner Bot
 global.numberbot = "" // Nexus bot
 global.footer = ""
 global.title = "© ᴄʀᴇᴀᴛᴏʀ sᴄʀɪᴘᴛ Eder"
-global.website = "whatsapp.com/channel/0029VakL4GD2phHJckS4Wc24"
-global.idch = "120363417139133337@newsletter"
-global.chjid = "https://whatsapp.com/channel/0029Vb75QXJ7oQhgxmdf0E0d"
+global.website = "https://whatsapp.com/channel/0029VaFMguNDTkJzaPGXAG3D"
+global.idch = "120363218713824827@newsletter"
+global.chjid = "https://whatsapp.com/channel/0029VaFMguNDTkJzaPGXAG3D"
 global.wm = ""
 
 //===================================//
