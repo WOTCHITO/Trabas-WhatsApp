@@ -5,7 +5,7 @@ credits © All Creators Script Zedezada
 
 
 const fs = require('fs')
-global.prefa = ['573507594335'] 
+global.prefa = [''] 
 global.botname = "⨭͛͠𝐙𝐄̶͓𝐃̷𝐄͡𝐙͍̽𝐀͡𝐃𝐀̚" // Nexus bot
 global.version = "2" // Versi SC
 global.owner = "" // Eder Owner Bot
